@@ -24,7 +24,7 @@ const Header = ({ activePage }) => (
           role="img"
           className="h-12 sm:h-10 w-12 sm:w-10 fill-current hover:text-accent transition duration-150"
           xmlns="http://www.w3.org/2000/svg"
-          viewBox="0 0 148.000000 140.000000"
+          viewBox="0 0 336.000000 353.000000"
         >
           <g transform="translate(0.000000,140.000000) scale(0.100000,-0.100000)"
 fill="#707a82" stroke="none">
