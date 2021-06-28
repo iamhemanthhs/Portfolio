@@ -13,7 +13,7 @@ const About = _ => {
           <h2>About Me</h2>
           <p>
             Hello, my name is Hemanth and I’m a Developer. 
-            I've always obsessed with the idea of programming, because they did almost everything that I can wish them for. That’s when I decided to
+            I've always obsessed with the idea of programs, because they did almost everything that I can wish them for. That’s when I decided to
             follow my passion and take a leap in this field! 
           </p>
           <p>And I still belive the idea that our entire Universe is just a Gigantic Computer which was turned ON when we're born and turns OFF the moment we die.</p>
