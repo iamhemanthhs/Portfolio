@@ -26,7 +26,7 @@ const Header = ({ activePage }) => (
           xmlns="http://www.w3.org/2000/svg"
           viewBox="0 0 336.000000 353.000000"
         >
-          <g transform="translate(0.000000,140.000000) scale(0.100000,-0.100000)"
+          <g transform="translate(0.000000,353.000000) scale(0.100000,-0.100000)"
 fill="#707a82" stroke="none">
          <path d="M190 2015 l0 -1265 225 0 225 0 0 560 0 560 560 0 560 0 0 -560 0
 -560 225 0 225 0 0 1265 0 1265 -225 0 -225 0 0 -525 0 -525 -560 0 -560 0 0
