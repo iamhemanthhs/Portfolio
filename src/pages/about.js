@@ -16,7 +16,7 @@ const About = _ => {
             I've always obsessed with the idea of programs, because they did almost everything that I can wish them for. That’s when I decided to
             follow my passion and take a leap in this field! 
           </p>
-          <p>And I still belive the idea that our entire Universe is just a Gigantic Computer which was turned ON when we're born and turns OFF the moment we die.</p>
+          <p>And I still belive the idea that our entire Universe is just a Gigantic Computer which was turned ON when we were born and turns OFF the moment we die.</p>
           <h2>What am I learning?</h2>
           <p>
             I'm currently a third year engineering student at Global Academy of Technology. I’m working on procuring depth in DSA, Problem Solving, Javascript and
