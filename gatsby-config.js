@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Hemanth H S`,
-    description: `Hey I'm Hemanth H S⚡ I'm a Web Dev working my way up the ladder in ReactJS and the MERN stack.`,
+    description: `Hey I'm Hemanth H S🚀 I'm a Web Dev working my way up the ladder in ReactJS and the MERN stack.`,
     author: `Hemanth H S`,
     siteUrl:
       process.env.DEV_ENV === 1

@@ -14,8 +14,6 @@ export default [
   },
 
 
-
-
   {
     slug: "https://videocallx.herokuapp.com",
     title: "Video Call Application",
@@ -31,5 +29,24 @@ export default [
         url: "https://videocallx.herokuapp.com",
       },
     ],
+  },
+  {
+    slug: "https://hemanthblogx.herokuapp.com",
+    title: "Blog Site",
+    description: "A Blog website allows the user to post n number of their own blogs and the data gets stored in the database.",
+    year: "2021",
+    links: [
+      {
+        label: "Github",
+        url: "https://github.com/iamhemanthhs/blog-site",
+      },
+      {
+        label: "Demo",
+        url: "https://hemanthblogx.herokuapp.com",
+      },
+    ],
   }
+
+
+
 ]

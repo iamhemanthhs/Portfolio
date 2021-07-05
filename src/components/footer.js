@@ -30,7 +30,7 @@ const Footer = _ => {
             <div className="flex flex-row items-center space-x-4 justify-center md:justify-end">
               <span>
                 <a
-                  href="mailto:codetastic101@gmail.com"
+                  href="mailto:iam.hemanthhs@gmail.com"
                   aria-label="Email iam.hemanthhs@gmail.com"
                   title="Email"
                 >
