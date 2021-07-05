@@ -1,4 +1,22 @@
 export default [
+
+  {
+    slug: "https://hemanthx.netlify.app/",
+    title: "My Personal Website",
+    description: "My personal website made with React and Gatsby.",
+    year: "2021",
+    links: [
+      {
+        label: "Github",
+        url: "https://github.com/iamhemanthhs/Portfolio",
+      },
+
+    ],
+  }
+
+
+
+
   {
     slug: "https://videocallx.herokuapp.com",
     title: "Video Call Application",
