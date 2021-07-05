@@ -45,6 +45,23 @@ export default [
         url: "https://hemanthblogx.herokuapp.com",
       },
     ],
+  },
+
+  {
+    slug: "https://toodolistx.herokuapp.com",
+    title: "To-Do List",
+    description: "Simple To-Do list web-app with MongoDB Atlas as database.",
+    year: "2020",
+    links: [
+      {
+        label: "Github",
+        url: "https://github.com/iamhemanthhs/To-Do-List",
+      },
+      {
+        label: "Demo",
+        url: "https://toodolistx.herokuapp.com",
+      },
+    ],
   }
 
 
