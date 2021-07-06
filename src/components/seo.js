@@ -10,7 +10,10 @@
  import { Helmet } from "react-helmet"
  import { useStaticQuery, graphql } from "gatsby"
  
+
+
  function SEO({ description, lang, meta, title, blog, ogImage }) {
+  <meta name="google-site-verification" content="m8rRjjPdGrlllb4iR8pX3SevIEeFBkiaDaxUziWxVSY" />
    const { site, image, blogImage } = useStaticQuery(
      graphql`
        query {
