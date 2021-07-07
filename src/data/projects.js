@@ -31,6 +31,24 @@ export default [
     ],
   },
 
+
+  {
+    slug: "https://covid19x.netlify.app/",
+    title: "Covid 19 Tracker",
+    description: "Covid 19 Tracker made using React and Material ui",
+    year: "2021",
+    links: [
+      {
+        label: "Github",
+        url: "https://github.com/iamhemanthhs/Covid-19-Tracker",
+      },
+      {
+        label: "Demo",
+        url: "https://covid19x.netlify.app/",
+      },
+    ],
+  },
+
   
   {
     slug: "https://github.com/iamhemanthhs/Student-Database-Management-and-Certificate-Maker",
