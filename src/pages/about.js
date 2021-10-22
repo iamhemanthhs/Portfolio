@@ -19,7 +19,7 @@ const About = _ => {
           </p>
           <p>
             And I still believe the idea that our entire Universe is just a
-            Gigantic Computer that was turned ON when we were born and turns off
+            Gigantic Computer that was turned on when we were born and turns off
             the moment we die.
           </p>
           <h2>What am I learning?</h2>
