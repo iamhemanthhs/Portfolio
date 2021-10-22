@@ -12,15 +12,15 @@ const About = _ => {
         <article className="prose">
           <h2>About Me</h2>
           <p>
-            Hello, my name is Hemanth and I’m a Developer. I've always obsessed
-            with the idea of programs, because they did almost everything that I
-            can wish them for. That’s when I decided to follow my passion and
-            take a leap in this field!
+            Hello, my name is Hemanth and I’m a Developer. I've always been
+            obsessed with the idea of programs because they did almost
+            everything that I can wish them for. That’s when I decided to follow
+            my passion and take a leap in this field!
           </p>
           <p>
-            And I still belive the idea that our entire Universe is just a
-            Gigantic Computer which was turned ON when we were born and turns
-            OFF the moment we die.
+            And I still believe the idea that our entire Universe is just a
+            Gigantic Computer that was turned ON when we were born and turns off
+            the moment we die.
           </p>
           <h2>What am I learning?</h2>
           <p>
