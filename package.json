@@ -1,9 +1,9 @@
 {
-  "name": "sushilburagute.github.io",
+  "name": "hemanthx.netlify.com",
   "private": true,
   "description": "My personal website made using Gatsby",
   "version": "2.0.0",
-  "author": "Sushil Buragute",
+  "author": "Hemanth H S",
   "dependencies": {
     "@mdx-js/mdx": "^1.6.22",
     "@mdx-js/react": "^1.6.22",
@@ -63,6 +63,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sushilburagute/sushilburagute.github.io.git"
+    "url": "https://github.com/iamhemanthhs/Portfolio"
   }
 }
