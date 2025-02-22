@@ -21,21 +21,13 @@ export const Contact = () => {
             GitHub
           </ExtLink>
           ,{" "}
-          <ExtLink link="https://twitter.com/theblizrdx" newTab>
-            Twitter
-          </ExtLink>
-          ,{" "}
-          <ExtLink link="https://instagram.com/theblizrdx" newTab>
-            Instagram
-          </ExtLink>
-          ,{" "}
-          <ExtLink link="https://in.linkedin.com/in/hemanthhemasurya" newTab>
+          <ExtLink link="https://in.linkedin.com/in/hemanthx" newTab>
             LinkedIn
           </ExtLink>
         </p>
-        <div className="mx-auto  pt-10 flex justify-center">
+        <div className="mx-auto pt-10 flex justify-center">
           <Button width="widest" link="mailto:iam.hemanthhs@gmail.com">
-            <span className=" text-2xl font-semibold text-on-accent">
+            <span className="text-2xl font-semibold text-on-accent">
               Say hello
             </span>
           </Button>
